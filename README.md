@@ -1,6 +1,7 @@
 # Question and Answering chat system using Neo4j
 A question and answering system in Neo4j using pre-loaded movie dataset. 
 
+Find the project question bank here [QuestionBank](https://github.com/AyushiKashyapp/movie_question_answering_neo4j/blob/main/QuestionBank.md)
 Creating a Neo4j Sandbox instance using a pre-loaded **Movies dataset**.
 Establishing a connection with the Sandbox instance via Google Colab using **Neo4j driver** and querying to understand the dataset using **Cyper**.
 Creating a **web application** for the chatbot system using **Gradio Interface**.
